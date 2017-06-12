@@ -10,3 +10,7 @@ Basic steps:
 - mysql - za bazu podataka
 - gulp - za development system
 - javascript - za website
+
+
+### second ver,
+-python za scrapanje i opbradu podataka
